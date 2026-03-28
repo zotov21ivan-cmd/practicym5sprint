@@ -11,7 +11,7 @@ def generate_password(length=10):
 
 email = generate_email() 
 password = generate_password()
-
+user_name= "Иван"
 # для перемещению по сайту во время написания тестов 
 #Ivan_Zotov_41_222@yandex.ru
 # QWEas112As
